@@ -1,0 +1,38 @@
+=== RAPPORT EDA CASIMAGE (Pro Premium) ===
+
+Lignes : 1096
+Colonnes : 30
+
+Top diagnostics :
+Diagnosis
+Angiome intramusculaire                               7
+Maladie de Bechterew avec sacro-iliite bilatérale.    5
+Schwannome                                            5
+Emphysème pulmonaire                                  5
+Myosite ossifiante circonscrite                       4
+Myxome                                                4
+Lymphangite carcinomateuse                            4
+Léiomyosarcome                                        4
+Kyste bronchogénique                                  4
+Mésothéliome                                          4
+Name: count, dtype: int64
+
+Départements :
+Department
+Radiologie                   679
+Département de Radiologie    385
+Non renseigné                 29
+Hémathologie                   3
+Name: count, dtype: int64
+
+Qualité des descriptions :
+count    1096.000000
+mean      556.375000
+std       671.604996
+min        13.000000
+25%       210.750000
+50%       351.000000
+75%       585.250000
+max      5832.000000
+Name: DescLen, dtype: float64
+

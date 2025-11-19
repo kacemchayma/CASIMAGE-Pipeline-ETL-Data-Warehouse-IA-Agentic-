@@ -1,0 +1,15 @@
+{
+  "target_table": "casimage_cases",
+  "columns": [
+    {
+      "name": "diagnosis",
+      "type": "string",
+      "source_xpath": "//diagnosis"
+    },
+    {
+      "name": "id",
+      "type": "int",
+      "source_xpath": "//id"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+pandas
+xmltodict
+lxml
+python-dotenv
+plotly
+dash
+matplotlib
+seaborn
+pyarrow
+sqlite3

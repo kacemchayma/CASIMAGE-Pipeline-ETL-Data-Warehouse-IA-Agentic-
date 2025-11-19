@@ -1,0 +1,21 @@
+=== RAPPORT EDA CASIMAGE ===
+
+Nombre de lignes : 1628
+Nombre de colonnes : 37
+
+Colonnes disponibles :
+ID, Diagnosis, ClinicalPresentation, KeyWords, Author, Hospital, Department, Date, Language, Title, Birthdate, Age, ImageThumbnaillID, Creation, DateTime, Order, ODislocation, OPolytrauma, OOpen, OPathologic, OOperation, OGraft, WEBURL, QCMs, SourceFile, Description, Commentary, Chapter, ACR, Reviewer, References, CaseID, State, Anatomy, OJoint, OLocation, OImplant
+
+Valeurs manquantes :
+CaseID    934
+dtype: int64
+
+Top 5 des diagnostics :
+Diagnosis
+Polyarthrite Rhumatoïde    14
+Polyarthrite Rhumatoide     7
+Angiome intramusculaire     7
+Emphysème pulmonaire        6
+Goutte                      5
+Name: count, dtype: int64
+

@@ -1,0 +1,10 @@
+=== RAPPORT DE COMPLETUDE DES DONNEES ===
+
+Nombre de lignes : 1628
+Nombre de colonnes : 37
+
+Valeurs manquantes restantes : 934
+Pourcentage global : 1.55%
+
+Colonnes supprimées (>90% NaN) :
+[]
